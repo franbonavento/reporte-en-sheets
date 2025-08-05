@@ -97,4 +97,4 @@ Estas son algunas de las preguntas que este proyecto busca responder:
 
 
 
-2. Accedé al link de Google Sheets ubicado en `/dashboard`.
+2. Accedé al link de Google Sheets ubicado en `/link reporte`.
