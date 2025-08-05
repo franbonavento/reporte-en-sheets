@@ -1,2 +1,2 @@
-# reporte en sheets
-
+# reporte de ventas y gastos en Sheets
+ 
